@@ -7,7 +7,7 @@
 
 ## 下载
 
-在 [发布页（Releases）](https://github.com/zhangchao-001/replay3d-download/releases/latest) 下载最新版本：
+在 [发布页（Releases）](https://github.com/deepxai-lab/replay3d-download/releases/latest) 下载最新版本：
 
 | 系统 | 安装包 |
 |---|---|
